@@ -80,4 +80,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **nahom aregaye** - [nahom](https://github.com/nahom37)
+* **nahom aregay** - [nah](https://github.com/nahom37)

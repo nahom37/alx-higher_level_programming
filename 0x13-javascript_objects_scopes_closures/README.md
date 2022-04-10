@@ -61,4 +61,4 @@ What you should learn from this project:
 
 ## Author
 
-* **nahom aregaye** - [nahom](https://github.com/nahom37)
+* **nahom aregaye** - [nah](https://github.com/nahom37)
